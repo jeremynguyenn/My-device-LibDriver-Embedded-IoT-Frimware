@@ -1,4 +1,4 @@
-## STM32-Embedded-Networking-IoT-Firmware bare mentals using low-level code for device registers for microcontroller platforms
+## STM32-Embedded-Networking-IoT-Firmware bare mentals using low-level code for device registers for microcontroller platforms and my Linux kernel driver
 
 ## 1. Embedded Networking, IoT & Frimware (BLE, WIFI, SIM A6 GSM/GPRS chip, ZigBee, MQTT, CAN, Ethernet Firmware)
 Bootloader using register programinng code:
