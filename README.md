@@ -74,4 +74,23 @@ https://github.com/jeremynguyenn/STM32-Flash-Memory-and-EEPROM-Drivers-.git
       + https://github.com/jeremynguyenn/Embedded-Development-Health-Tracking-Watch-coding-by-register-STM32.git
 
 
-## My linux kernel driver project 
+## My linux kernel driver  
+- BME280-Design-Architecture-ConcurKernel: https://github.com/jeremynguyenn/BME280-Design-Architecture-ConcurKernel.git
+
+- Advanced-MPU9250-Linux-Kernel-User-with-Design-Concurrency-Optimizations: https://github.com/jeremynguyenn/Advanced-MPU9250-Linux-Kernel-User-with-Design-Concurrency-Optimizations.git
+
+- MAX30102 Sensor Driver for Raspberry Pi with Advanced Multithreading: https://github.com/jeremynguyenn/Embedded-Kernel-Multithreading-Thread-Synchronization-Design-Patterns-MAX30102.git
+
+- Embedded-Kernel-Driver-MAX30102-Pulse-Oximeter-and-Heart-Rate: https://github.com/jeremynguyenn/Embedded-Kernel-Driver-MAX30102-Pulse-Oximeter-and-Heart-Rate.git
+
+- MPU9250 Kernel Driver for Raspberry Pi (RUN follow the file mpu9250-kernel-module-thread-advance-update): https://github.com/jeremynguyenn/Embedded-Kernel-Multithreading-Thread-Synchronization-Design-Patterns-IMU-MPU-sensor.git
+
+- BME680 Environmental Sensor Driver and Application: https://github.com/jeremynguyenn/Embedded-Kernel-Multithreading-Thread-Synchronization-Design-Patterns-BME680-Environmental-Sensor.git
+
+- BMP390 Kernel Driver - Pressure sensor BMP390: https://github.com/jeremynguyenn/Embedded-Kernel-Driver-BMP390-Pressure-sensor.git
+
+- Embedded-Kernel-Driver-AS608-Fingerprint-Sensor: https://github.com/jeremynguyenn/Embedded-Kernel-Driver-AS608-Fingerprint-Sensor.git
+
+- Embedded-Kernel-driver-deepdive-sht3x-sensor: https://github.com/jeremynguyenn/Embedded-Kernel-driver-deepdive-sht3x-sensor.git
+
+- Embedded-Kernel-Driver-ICM-20948-9-axis-accelerated-sensor: https://github.com/jeremynguyenn/Embedded-Kernel-Driver-ICM-20948-9-axis-accelerated-sensor.git
