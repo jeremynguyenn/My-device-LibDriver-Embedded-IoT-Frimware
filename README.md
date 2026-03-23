@@ -72,3 +72,6 @@ https://github.com/jeremynguyenn/STM32-Flash-Memory-and-EEPROM-Drivers-.git
 - Development Driver for A Comprehensive Guide to Health Tracking Watch using register code for microcontroller
 
       + https://github.com/jeremynguyenn/Embedded-Development-Health-Tracking-Watch-coding-by-register-STM32.git
+
+
+## My linux kernel driver project 
