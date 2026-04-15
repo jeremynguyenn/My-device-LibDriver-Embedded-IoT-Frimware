@@ -94,3 +94,5 @@ https://github.com/jeremynguyenn/STM32-Flash-Memory-and-EEPROM-Drivers-.git
 - Embedded-Kernel-driver-deepdive-sht3x-sensor: https://github.com/jeremynguyenn/Embedded-Kernel-driver-deepdive-sht3x-sensor.git
 
 - Embedded-Kernel-Driver-ICM-20948-9-axis-accelerated-sensor: https://github.com/jeremynguyenn/Embedded-Kernel-Driver-ICM-20948-9-axis-accelerated-sensor.git
+
+- Embedded-Kernel-Deiver Time-of-Flight-multi-zone-sensor-VL53L5CX-VL53L8CX-kernel-driver: https://github.com/jeremynguyenn/Time-of-Flight-multi-zone-sensor-VL53L5CX-VL53L8CX-kernel-driver.git
